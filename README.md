@@ -1,48 +1,75 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Lifecycle:Stable](https://img.shields.io/badge/Lifecycle-Stable-97ca00)](<Redirect-URL>)
-[![codecov](https://codecov.io/gh/bcgov/sbc-auth/branch/development/graph/badge.svg)](https://codecov.io/gh/bcgov/sbc-auth)
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# sbc-auth
 
-# BC Registries authentication and authorization services
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/sbc-auth)
 
-BC Registries and Online Services is beginning a phased, multi-year modernization initiative to replace and improve the applications used for BC Online, the Corporate, Personal Property and Manufactured Homes Registries. Our vision is to develop a better service experience and make it easier for citizens and businesses to complete transactions and filings with the province of BC and across other jurisdictions, manage accounts and pay for services.
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-The sbc-auth repo aims to create an common authentication module for BC registries which can be utilised by different services.
-For more information on the API please refer to:
+## Architecture
 
-[auth-api\Readme](auth-api/README.md)
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-For more information on the web component refer to:
+## Install
 
-[auth-web\Readme](auth-web/README.md)
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-For more information on the Status API component refer to:
+```bash
+git clone https://github.com/Interested-Deving-1896/sbc-auth.git
+cd sbc-auth
+```
 
-[status-api\Readme](status-api/README.md)
+## Usage
 
-## How to Contribute
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
 
-If you would like to contribute, please see our [contributing](CONTRIBUTING.md)
-guidelines. Please note that this project is released with a
-[Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this
-project you agree to abide by its terms.
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/sbc-auth`](https://github.com/Interested-Deving-1896/sbc-auth) and mirrored through:
+
+```
+Interested-Deving-1896/sbc-auth  ──►  OpenOS-Project-OSP/sbc-auth  ──►  OpenOS-Project-Ecosystem-OOC/sbc-auth
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
 
 ## License
 
-    Copyright 2025 Province of British Columbia
-
-    Licensed under the Apache License, Version 2.0 (the "License"); you may not
-    use this file except in compliance with the License. You may obtain a copy
-    of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-    WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-    License for the specific language governing permissions and limitations
-    under the License.
-
-# Testing Thanks
-
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/dashboard?id=sbc-auth)
- 
+<!-- AI:start:license -->
+[Apache-2.0](https://github.com/Interested-Deving-1896/sbc-auth/blob/main/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
